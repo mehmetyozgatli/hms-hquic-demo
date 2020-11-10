@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hQUIC Demo</string>
+
+    <string name="load_dialog_title">Connecting</string>
+    <string name="load_dialog_message">Please Wait</string>
+    <string name="error_title">Service unavailable</string>
+    <string name="error_message">Please try it later. Error: </string>
+    <string name="ok">OK</string>
+</resources>
